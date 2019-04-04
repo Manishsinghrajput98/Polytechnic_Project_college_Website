@@ -1,0 +1,15 @@
+/* table designing*/
+th
+{background:#225584;
+text-align: left;
+    padding: 8px;
+	border:1px solid;
+	color:#FFFFFF;
+}
+ td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+tr:nth-child(odd){background-color: #7797b4}
